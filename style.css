@@ -1,23 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 :root {
-  --color-primary: hsl(324, 68%, 64%);
-  --color-primary-lighter: hsl(324, 75%, 71%);
-  --color-primary-opacity: hsla(324, 35%, 50%, 0.471);
-  --color-secondary: hsl(279, 68%, 19%);
-  --color-secondary-lighter: hsl(279, 75%, 26%);
+  --color-primary: hsl(145, 33%, 52%);
+  --color-primary-lighter: hsl(145, 37%, 48%);
+  --color-primary-opacity: hsla(209, 78%, 44%, 0.471);
+  --color-secondary: hsl(226, 70%, 42%);
+  --color-secondary-lighter: hsl(231, 67%, 43%);
   --color-text-light: #f7f7f7;
   --color-text-dark: #000;
 
   --color-linear-gradient: linear-gradient(
     to right,
-    hsla(279, 67%, 19%, 0.459),
-    hsla(324, 35%, 50%, 0.471)
+    hsla(192, 62%, 48%, 0.459),
+    hsla(197, 57%, 49%, 0.471)
   );
   --color-linear-gradient-webkit: -webkit-linear-gradient(
     to right,
-    hsla(279, 67%, 19%, 0.459),
-    hsla(324, 35%, 50%, 0.471)
+    hsla(214, 60%, 46%, 0.459),
+    hsla(202, 69%, 46%, 0.471)
   );
 }
 *,
